@@ -1,5 +1,5 @@
 # maven-project
 
 Simple Maven Project
-New line
+New line 
 Another line
